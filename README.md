@@ -17,7 +17,7 @@ Eager to tackle **complex challenges**, I strive to contribute to **impactful pr
 ---
 
 ## 🛠️ Technologies & Tools  
-## Technologies & Tools
+### I work with a range of technologies and tools, with varying levels of proficiency and familiarity:
 
 ### Programming Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
