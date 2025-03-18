@@ -11,7 +11,7 @@ Eager to tackle **complex challenges**, I strive to contribute to **impactful pr
 ## 🚀 About Me  
 - 🎓 Graduated from the **University of Luxembourg** (2025)!  
 - 💡 Passionate about **AI, Web development, and problem-solving**  
-- 📂 My **portfolio will be available next week!** Stay tuned  
+- 📂 I aim to keep my **portfolio relevant with cool projects** Stay tuned (most likely posting major ones on Linkedin)!   
 - 🎯 **Looking for opportunities!** If you're hiring or have an exciting project, feel free to reach out!
 
 ---
